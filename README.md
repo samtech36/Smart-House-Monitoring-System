@@ -1,5 +1,4 @@
-#Smart-House-Monitoring-System
-
+# Smart-House-Monitoring-System
 
 This was my final project for the Smart House Monitoring System for Electronics Laboratory 4 class
 
