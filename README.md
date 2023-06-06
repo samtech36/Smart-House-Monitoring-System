@@ -6,4 +6,4 @@ This was my final project for the Smart House Monitoring System for Electronics 
 This was developed using Arduino, C++, and I2C programming languages.
 
 
-The purpose of this system is to detect temperature, light, and movement in residential environments using ultrasonic distance sensor, movement detection sensor, passive/active buzzer and the RGB LED
+The purpose of this system is to detect light and movement in residential environments using ultrasonic distance sensor, movement detection sensor, passive/active buzzer and the RGB LED.
